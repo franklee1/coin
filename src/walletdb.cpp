@@ -533,7 +533,7 @@ DBErrors CWalletDB::LoadWallet(CWallet* pwallet)
 void ThreadFlushWalletDB(void* parg)
 {
     // Make this thread recognisable as the wallet flushing thread
-    RenameThread("diverse-wallet");
+    RenameThread("bigboxcoin-wallet");
 
     const string& strFile = ((const string*)parg)[0];
     static bool fOneThread;

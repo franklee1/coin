@@ -1,9 +1,9 @@
-Building diverse
+Building bigboxcoin
 
-See doc/readme-qt.rst for instructions on building diverse QT,
+See doc/readme-qt.rst for instructions on building bigboxcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of diverse.
+implementation of bigboxcoin.
 
-See doc/build-*.txt for instructions on building diversed,
+See doc/build-*.txt for instructions on building bigboxcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of diverse.
+implementation of bigboxcoin.
